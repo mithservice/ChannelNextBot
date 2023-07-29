@@ -15,15 +15,15 @@
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "25481352"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "146ae7b2587ff37f6a43c5cc7bf84d6f"
     },
     "BOT_TOKEN": {
       "description": "Your Bot Token Obtained From @BotFather.",
-      "value": ""
+      "value": "6684366952:AAFUs4MhYTf92yQlFJPVzUttwmFq83D_OO4"
     }
   },
   "addons": [
